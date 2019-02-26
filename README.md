@@ -23,7 +23,11 @@
 
 -----
 
-## Cheatsheet for compling CPP:
+## Cheatsheet:
+
+Easy colour: `#5cb85c`
+Medium colour: `#f0ad4e`
+Hard colour: `#d9534f`
 
 **chmod**
 
