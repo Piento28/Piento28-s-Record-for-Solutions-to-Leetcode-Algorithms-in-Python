@@ -1,3 +1,6 @@
+# Sort
+# Time: O(nlogn)
+# Space: O(n)
 class Solution:
     def twoSum(self, nums, target):
         def SortKey(a):
@@ -15,6 +18,9 @@ class Solution:
                 index_end-=1
         return [nums[index_begin][1],nums[index_end][1]]
 
+# Hash
+# Time: O(n)
+# Space: O(n)
 class Solution:
     def twoSum(self, nums, target):
         bucket={}

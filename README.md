@@ -1,4 +1,4 @@
-# Piento28's Record for Solution to Leetcode Algorithms in Python
+# Piento28's Record for Solutions to Leetcode Algorithms in Python
 
 -----
 
@@ -6,16 +6,18 @@
   <tr>
     <th>#</th>
     <th>Title</th>
+    <th>Time</th>
+    <th>Space</th>
+    <th>Notes</th>
     <th>Difficulty</th>
-    <th>Best Runtime(ms)</th>
-    <th>Nots of Best Runtime </th>
   </tr>
   <tr>
-    <td>1</td>
+    <td><a href="./Solved/1.py">1</a></td>
     <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
-    <td><font color="green">Easy</font></td>
-    <td>40</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
     <td>Hash</td>
+    <td bgcolor="#5cb85c">Easy</td>
   </tr>
 </table>
 
