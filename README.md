@@ -19,6 +19,79 @@
     <td>Hash</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
+  <tr>
+    <td><a href="./Solved/96.py">96</a></td>
+    <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
+    <td>O(n^2)</td>
+    <td>O(n)</td>
+    <td>Binary Tree, DP</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/98.py">98</a></td>
+    <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/100.py">100</a></td>
+    <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/101.py">101</a></td>
+    <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric Tree</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/104.py">104</a></td>
+    <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/110.py">110</a></td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td>O(nlog_{2}n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/111.py">111</a></td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/112.py">112</a></td>
+    <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/235.py">235</a></td>
+    <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree
+</a></td>
+    <td>O(log_{2}n)</td>
+    <td>O(1)</td>
+    <td>Binary Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
 </table>
 
 -----
