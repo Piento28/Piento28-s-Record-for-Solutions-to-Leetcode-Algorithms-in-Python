@@ -20,11 +20,27 @@
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
+    <td><a href="./Solved/15.py">15</a></td>
+    <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+    <td>O(n^2)</td>
+    <td>O(n)</td>
+    <td>Array, Two Pointers</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/16.py">16</a></td>
+    <td><a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
+    <td>O(n^2)</td>
+    <td>O(n)</td>
+    <td>Array, Two Pointers</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/96.py">96</a></td>
     <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
     <td>O(n^2)</td>
     <td>O(n)</td>
-    <td>Binary Tree, DP</td>
+    <td>Binary Tree, Dynamic Programming</td>
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
@@ -92,11 +108,21 @@
     <td>Binary Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
+  <tr>
+    <td><a href="./Solved/560.py">560</a></td>
+    <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Array, Hash</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
 </table>
 
 -----
 
 ## Cheatsheet:
+
+<a href="./Solved/BinaryTree.py">BinaryTree</a>
 
 Easy colour: `#5cb85c`
 
