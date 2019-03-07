@@ -16,7 +16,7 @@
     <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Hash</td>
+    <td>Array, Hash</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -34,6 +34,14 @@
     <td>O(n)</td>
     <td>Array, Two Pointers</td>
     <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/28.py">28</a></td>
+    <td><a href="https://leetcode.com/problems/implement-strstr/">Implement strStr()</a></td>
+    <td>O(n+m)</td>
+    <td>O(n+m)</td>
+    <td>String, Two Pointers</td>
+    <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
     <td><a href="./Solved/96.py">96</a></td>
@@ -99,6 +107,14 @@
     <td>Binary Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
+   <tr>
+    <td><a href="./Solved/172.py">172</a></td>
+    <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Factorial Trailing Zeroes</a></td>
+    <td>O(log_{5}n)</td>
+    <td>O(log_{5}n)</td>
+    <td>Math</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
   <tr>
     <td><a href="./Solved/235.py">235</a></td>
     <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree
@@ -115,6 +131,14 @@
     <td>O(n)</td>
     <td>Array, Hash</td>
     <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/506.py">506</a></td>
+    <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
+    <td>O(log_{2}n)</td>
+    <td>O(log_{2}n)</td>
+    <td>Math</td>
+    <td bgcolor="#5cb85c">Easy</td>
   </tr>
 </table>
 
