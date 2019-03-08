@@ -20,6 +20,22 @@
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
+    <td><a href="./Solved/2.py">2</a></td>
+    <td><a href="https://leetcode.com/problems/add-two-numbers/">Add Two Numbers</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Linked List</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/8.py">8</a></td>
+    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String to Integer (atoi)</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>String</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/15.py">15</a></td>
     <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
     <td>O(n^2)</td>
@@ -36,6 +52,30 @@
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
+    <td><a href="./Solved/19.py">19</a></td>
+    <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>Linked List, Two Pointers</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/23.py">23</a></td>
+    <td><a href="https://leetcode.com/problems/merge-k-sorted-lists/">Merge k Sorted Lists</a></td>
+    <td>O(k*n)</td>
+    <td>O(n)</td>
+    <td>Linked List, Divide and Conquer, Heap</td>
+    <td bgcolor="#d9534f">Hard</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/25.py">25</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">Reverse Nodes in k-Group</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>Linked List</td>
+    <td bgcolor="#d9534f">Hard</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/28.py">28</a></td>
     <td><a href="https://leetcode.com/problems/implement-strstr/">Implement strStr()</a></td>
     <td>O(n+m)</td>
@@ -44,11 +84,19 @@
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
+    <td><a href="./Solved/94.py">94</a></td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Tree</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/96.py">96</a></td>
     <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
     <td>O(n^2)</td>
     <td>O(n)</td>
-    <td>Binary Tree, Dynamic Programming</td>
+    <td>Tree, Dynamic Programming</td>
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
@@ -56,7 +104,7 @@
     <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
@@ -64,7 +112,7 @@
     <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -72,7 +120,7 @@
     <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric Tree</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -80,7 +128,7 @@
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -88,7 +136,7 @@
     <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
     <td>O(nlog_{2}n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -96,7 +144,7 @@
     <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
@@ -104,10 +152,26 @@
     <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
     <td>O(n)</td>
     <td>O(n)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
-   <tr>
+  <tr>
+    <td><a href="./Solved/144.py">144</a></td>
+    <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Tree</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/145.py">145</a></td>
+    <td><a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">Binary Tree Postorder Traversal</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Tree</td>
+    <td bgcolor="#d9534f">Hard</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/172.py">172</a></td>
     <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Factorial Trailing Zeroes</a></td>
     <td>O(log_{5}n)</td>
@@ -121,7 +185,15 @@
 </a></td>
     <td>O(log_{2}n)</td>
     <td>O(1)</td>
-    <td>Binary Tree</td>
+    <td>Tree</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/344.py">344</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>String, Two Pointers</td>
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
