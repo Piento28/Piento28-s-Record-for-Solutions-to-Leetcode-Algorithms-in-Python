@@ -156,6 +156,22 @@
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
+    <td><a href="./Solved/141.py">141</a></td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>Linked List, Two Pointers</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/142.py">142</a></td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Linked List Cycle II</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>Linked List, Two Pointers</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/144.py">144</a></td>
     <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
     <td>O(n)</td>
@@ -172,12 +188,28 @@
     <td bgcolor="#d9534f">Hard</td>
   </tr>
   <tr>
+    <td><a href="./Solved/160.py">160</a></td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">Intersection of Two Linked Lists</a></td>
+    <td>O(n+m)</td>
+    <td>O(1)/td>
+    <td>Linked List</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/172.py">172</a></td>
     <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Factorial Trailing Zeroes</a></td>
     <td>O(log_{5}n)</td>
     <td>O(log_{5}n)</td>
     <td>Math</td>
     <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/215.py">215</a></td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">Kth Largest Element in an Array</a></td>
+    <td>O(n*log_{2}k)</td>
+    <td>O(k)</td>
+    <td>Divide and Conquer, Heap</td>
+    <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
     <td><a href="./Solved/235.py">235</a></td>
@@ -197,6 +229,14 @@
     <td bgcolor="#5cb85c">Easy</td>
   </tr>
   <tr>
+    <td><a href="./Solved/349.py">349</a></td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/">Intersection of Two Arrays</a></td>
+    <td>O(n+m)</td>
+    <td>O(n+m)</td>
+    <td>Hash, Two Pointers, Binary Search, Sort</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/560.py">560</a></td>
     <td><a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
     <td>O(n)</td>
@@ -211,6 +251,38 @@
     <td>O(log_{2}n)</td>
     <td>Math</td>
     <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/703.py">703</a></td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/">Kth Largest Element in a Stream</a></td>
+    <td>O(n*log_{2}k)</td>
+    <td>O(k)</td>
+    <td>Heap</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/876.py">876</a></td>
+    <td><a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>Linked List</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/977.py">977</a></td>
+    <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares of a Sorted Array</a></td>
+    <td>O(n*log_{2}n)</td>
+    <td>O(n)</td>
+    <td>Array, Two Pointers, Sort</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/978.py">978</a></td>
+    <td><a href="https://leetcode.com/problems/longest-turbulent-subarray/">Longest Turbulent Subarray</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Array</td>
+    <td bgcolor="#f0ad4e">Medium</td>
   </tr>
 </table>
 
