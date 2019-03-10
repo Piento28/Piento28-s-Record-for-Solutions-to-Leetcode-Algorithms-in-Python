@@ -28,6 +28,14 @@
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
+    <td><a href="./Solved/5.py">5</a></td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td>O(n^2)</td>
+    <td>O(1)</td>
+    <td>String, Dynamic Programming</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/8.py">8</a></td>
     <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String to Integer (atoi)</a></td>
     <td>O(n)</td>
@@ -82,6 +90,14 @@
     <td>O(n+m)</td>
     <td>String, Two Pointers</td>
     <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/32.py">32</a></td>
+    <td><a href="https://leetcode.com/problems/longest-valid-parentheses/">Longest Valid Parentheses</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>String, Dynamic Programming</td>
+    <td bgcolor="#d9534f">Hard</td>
   </tr>
   <tr>
     <td><a href="./Solved/94.py">94</a></td>
@@ -219,6 +235,14 @@
     <td>O(1)</td>
     <td>Tree</td>
     <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/300.py">300</a></td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
+    <td>O(nlog_{2}n)</td>
+    <td>O(n)</td>
+    <td>Binary Search, Dynamic Programming</td>
+    <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
     <td><a href="./Solved/344.py">344</a></td>
