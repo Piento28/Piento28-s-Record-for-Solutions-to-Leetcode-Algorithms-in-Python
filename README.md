@@ -100,6 +100,22 @@
     <td bgcolor="#d9534f">Hard</td>
   </tr>
   <tr>
+    <td><a href="./Solved/78.py">78</a></td>
+    <td><a href="https://leetcode.com/problems/subsets/">Subsets</a></td>
+    <td>O(2*n)</td>
+    <td>O(n)</td>
+    <td>Array, Bit Manipulation</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/84.py">84</a></td>
+    <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest Rectangle in Histogram</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>Array, Stack</td>
+    <td bgcolor="#d9534f">Hard</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/94.py">94</a></td>
     <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
     <td>O(n)</td>
@@ -218,6 +234,22 @@
     <td>O(log_{5}n)</td>
     <td>Math</td>
     <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/190.py">190</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-bits/">Reverse Bits</a></td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+    <td>Bit Manipulation</td>
+    <td bgcolor="#5cb85c">Easy</td>
+  </tr>
+  <tr>
+    <td><a href="./Solved/214.py">214</a></td>
+    <td><a href="https://leetcode.com/problems/shortest-palindrome/">Shortest Palindrome</a></td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>String, KMP</td>
+    <td bgcolor="#d9534f">Hard</td>
   </tr>
   <tr>
     <td><a href="./Solved/215.py">215</a></td>
