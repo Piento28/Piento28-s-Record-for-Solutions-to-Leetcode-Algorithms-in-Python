@@ -1,11 +1,15 @@
+CC = g++
+CFLAGS = -std=c++11
+LDFLAGS = -lm
+
 all: leetcode.exe
 	./$<
 
-leetcode.exe: leetcode.o
-	gcc -o $@ $<
+leetcode.exe: leetcode.cpp
+	$(CC) $< $(CFLAGS) $(LDFLAGS) -o $@
 
-leetcode.o: leetcode.cpp
-	gcc -c $<
+# leetcode.o: leetcode.cpp
+# 	$(CC) -c $<
 	
 clean:
 	rm *.o *.exe

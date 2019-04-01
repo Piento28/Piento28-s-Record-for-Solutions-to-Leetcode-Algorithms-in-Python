@@ -28,6 +28,14 @@
     <td bgcolor="#f0ad4e">Medium</td>
   </tr>
   <tr>
+    <td><a href="./Solved/3.py">3</a></td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td>O(n)</td>
+    <td>O(m)</td>
+    <td>Hash, Two Pointers, String</td>
+    <td bgcolor="#f0ad4e">Medium</td>
+  </tr>
+  <tr>
     <td><a href="./Solved/5.py">5</a></td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
     <td>O(n^2)</td>
